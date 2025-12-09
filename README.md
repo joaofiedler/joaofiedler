@@ -1,18 +1,19 @@
-<h3 align="left"> hi, i'm João, i'm a 16-year-old brazilian high school student.<br></h3>
-<h3>everyday learning a bit of c, c++, go, python, nodeJS, mongoDB, SQL and IoT.</h3>
-<h3>i'm interested in cybersecurity, cloud computing and AI engineering (neural networks)</h3>
+# Hello
+I'm João. I'm 16 and learning a lot of tech.
 
-<!--
-**joaofiedler/joaofiedler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working on projects with:
 
-Here are some ideas to get you started:
+*   C, C++, Go, Python, NodeJS
+*   MongoDB, SQL
+*   IoT stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in cybersecurity, cloud computing, and AI.
+
+---
+
+**About me:**
+
+*   Age: 16
+*   Location: Brazil
+
+**Contact:** joaofiedlersilva@gmail.com
