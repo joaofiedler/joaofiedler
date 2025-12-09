@@ -16,4 +16,4 @@ I'm interested in cybersecurity, cloud computing, and AI.
 *   Age: 16
 *   Location: Brazil
 
-**Contact:** joaofiedlersilva@gmail.com
+**Contact:** joaofiedlersilva@gmail.com | https://www.linkedin.com/in/jo%C3%A3o-fiedler-26bbb1362/
