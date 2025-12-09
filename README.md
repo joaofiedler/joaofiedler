@@ -15,6 +15,7 @@ I'm interested in cybersecurity, cloud computing, and AI.
 
 *   Age: 16
 *   Location: Brazil
+*   Currently reading: Pattern Recognition with Neural Networks in C++ by Abhijit S. Pandya
 
 **Contact:**
 <p align="left">
