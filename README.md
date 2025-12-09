@@ -1,4 +1,7 @@
-## Hi there 👋
+<h3 align="left"> 
+  hi, i'm João, i'm a 16-year-old brazilian high school student.<br>
+</h3>
+<h3>everyday learning a bit of c, c++, go, python, nodeJS, mongoDB, SQL and IoT.</h3>
 
 <!--
 **joaofiedler/joaofiedler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
