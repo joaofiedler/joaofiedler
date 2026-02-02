@@ -1,5 +1,5 @@
 # Hello
-I'm João. I'm 16 and learning a lot of tech.
+I'm João. I'm 17 and learning a lot of tech.
 
 I'm working on projects with:
 
