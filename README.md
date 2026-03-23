@@ -1,24 +1,26 @@
 # Hello
-I'm João. I'm 17 and learning a lot of tech.
 
-I'm working on projects with:
+I'm João, 17, focused on networking and cybersecurity.
 
-*   C, C++, Go, Python, NodeJS
-*   MongoDB, SQL
-*   IoT stuff
+Currently studying for the CCNA certification, building a strong foundation in networking (routing, switching, subnetting, troubleshooting) through hands-on labs using Cisco Packet Tracer and TryHackMe.
 
-I'm interested in cybersecurity, cloud computing, and AI.
+## Focus
+- Networking (CCNA)
+- Cybersecurity fundamentals
+- Linux and system fundamentals
 
----
+## Experience
+- IT Support (Intern): working with network infrastructure, systems and hardware troubleshooting
+- Development background (Node.js, React, APIs)
 
-**About me:**
+## Tech
+- Networking: TCP/IP, Subnetting
+- Systems: Linux, Windows
+- Programming: Python, JavaScript
 
-*   Age: 17
-*   Location: Brazil
-*   Currently reading: Pattern Recognition with Neural Networks in C++ by Abhijit S. Pandya
+## Goal
+Become highly skilled in networking first, then expand into cloud and cybersecurity.
 
-**Contact:**
-<p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%25C3%25A3o-fiedler-26bbb1362/?skipRedirect=true" alt="LinkedIn"/></a>
-</p> joaofiedler@icloud.com
+## Contact
+- LinkedIn: https://linkedin.com/in/joão-fiedler
+- Email: joaofiedler@icloud.com
