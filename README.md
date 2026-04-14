@@ -16,7 +16,7 @@ Currently studying for the CCNA certification, building a strong foundation in n
 ## Tech
 - Networking: TCP/IP, Subnetting
 - Systems: Linux, Windows
-- Programming: Python, JavaScript
+- Programming: Python, Typescript
 
 ## Goal
 Become highly skilled in networking first, then expand into cloud and cybersecurity.
